@@ -1,0 +1,38 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# macOS-specific files
+.DS_Store
+*.DS_Store
+
+# Node.js project
+/node_modules/
+
+# Custom packages (if they are inside the project)
+/CustomPackages/
+
+# Ignore any build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# Ignore any Visual Studio or Rider specific files
+*.sln
+*.csproj
+*.suo
+*.pidb
+*.userprefs
+
+# Ignore any user-specific files
+*.user
+*.user.meta
+
+# Ignore any backup files
+*.bak
+*~
